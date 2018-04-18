@@ -1,0 +1,27 @@
+---
+title: "DATA 607 Discussion 12"
+author: "Vinicio Haro"
+date: "April 18, 2018"
+output: html_document
+---
+
+Amazon System 
+
+Scenerio Design Analysis on Amazon 
+
+Target Users: 
+The target audience are casual and avid online shoppers on Amazon's platform. A targeted marketing tool is used to make the online shopping experience more personal by showing you items based on your purchase history and browsing history. 
+
+Key goals: 
+The key goals is to show the shopper "something they did not know they needed until they saw it." For example, if you purchase a phone, the system would show you chargers, phone cases, and other items that can compliment the item you are looking for. The system also would show the user groupings of items "commonly" bought together. 
+
+How Amazon helps people: 
+Amazon provides a mean to give people access to all their shopping needs in addition to displaying items that compliment a product that was just purchased/browsed. According to amazon, 35% of their revenue is coming from recommended products. 
+
+Reverse Engineer: 
+
+Based on my own interactions on Amazon, I am recommended items in video games, blu ray movies, textbooks, and pet products. These are all the groups that make up the majority of my Amazon shopping habit. These recommended items seem to come as a result of my purchase history. I do not usually browse on amazon since I already know the item i want but I would imagine the system uses browsing history as well. 
+https://www.techemergence.com/use-cases-recommendation-systems/
+
+Improvements:
+On the surface, I do not see any recommended steps since the system appears to be working. I would add some additional features to the system such as item compaison. For example, lets say I bought a playstation 4 and I am on the market for another controller. This controller comes up as a recommended item to purchase but I want to get it fr the cheapest price possible. Lets say there is a feature that lets me hover over the recommendation and see the prices for other retailers or third party vendors. This sounds more like a browser plug in. 
